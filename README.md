@@ -14,7 +14,7 @@ The solver guides you **step by step** to solve the puzzle and reports the follo
 - Number of states expanded to find the solution
 - Search depth to find the solution
 - Running time of the algorithm to find the solution
-![Solving_1](/sample_rune/1.png?raw=true)
+![Solving_1](/sample_run/1.png?raw=true)
 
 
 ## Authors
